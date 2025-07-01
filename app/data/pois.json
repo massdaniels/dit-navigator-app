@@ -1,0 +1,789 @@
+{
+  "pois": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8af29d67-837d-45f0-bff5-addd7c443bc4",
+          "name": "Library 1",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27957028220797,
+            -6.815049344219397
+          ]
+        },
+        "id": "8af29d67-837d-45f0-bff5-addd7c443bc4"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "0a99c54a-ff8a-4ab4-9971-07ee75d0477e",
+          "name": "Library 2",
+          "category": "corridor",
+          "floor": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27961587976279,
+            -6.815145887293394
+          ]
+        },
+        "id": "0a99c54a-ff8a-4ab4-9971-07ee75d0477e"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5f085a1f-1724-451d-a1db-13bad1dd9c92",
+          "name": "Library 3",
+          "category": "corridor",
+          "floor": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2794344953834,
+            -6.815183505795896
+          ]
+        },
+        "id": "5f085a1f-1724-451d-a1db-13bad1dd9c92"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "380a220e-d41d-41e8-bf54-307af19e402d",
+          "name": "Stationary",
+          "category": "unit",
+          "floor": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27979793470271,
+            -6.815198819522116
+          ]
+        },
+        "id": "380a220e-d41d-41e8-bf54-307af19e402d"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d5bc6780-87ec-4772-9f97-ab743cd079fe",
+          "name": "Block A",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27929310061163,
+            -6.8149890172889
+          ]
+        },
+        "id": "d5bc6780-87ec-4772-9f97-ab743cd079fe"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "a75c68e1-09db-4944-9f48-d8f34c4462cf",
+          "name": "Electrical Labs",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27918063335688,
+            -6.81470991903143
+          ]
+        },
+        "id": "a75c68e1-09db-4944-9f48-d8f34c4462cf"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1d0c583b-d9d6-4ef4-a1f4-a92b75e04415",
+          "name": "Teaching Tower",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.2794287376926,
+            -6.814600725382432
+          ]
+        },
+        "id": "1d0c583b-d9d6-4ef4-a1f4-a92b75e04415"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "538ff58f-b4c0-4fd7-8d67-4e75874045ff",
+          "name": "Block B",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.279894471238414,
+            -6.815353744731897
+          ]
+        },
+        "id": "538ff58f-b4c0-4fd7-8d67-4e75874045ff"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "93fb6718-b557-4ac3-8808-85b2a2196206",
+          "name": "Block C",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28031435816659,
+            -6.815521519308431
+          ]
+        },
+        "id": "93fb6718-b557-4ac3-8808-85b2a2196206"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "c054ea83-277c-4062-bca9-13f424d47cf2",
+          "name": "Dining Hall",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27984867801874,
+            -6.81313562169651
+          ]
+        },
+        "id": "c054ea83-277c-4062-bca9-13f424d47cf2"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3e539331-1d65-4e5f-a306-5d5a76f1228f",
+          "name": "Water Dispenser",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28023836839265,
+            -6.814640323051469
+          ]
+        },
+        "id": "3e539331-1d65-4e5f-a306-5d5a76f1228f"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ec593e41-de87-4b1f-b430-f760afec6866",
+          "name": "Canteen",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.280751105528324,
+            -6.814939146688528
+          ]
+        },
+        "id": "ec593e41-de87-4b1f-b430-f760afec6866"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d19dd126-2f04-4e7e-be13-a4a9e771036d",
+          "name": "DIT NSSF",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28076338684946,
+            -6.816059409485192
+          ]
+        },
+        "id": "d19dd126-2f04-4e7e-be13-a4a9e771036d"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "85ba87f9-d424-4948-9305-1b1c00905d90",
+          "name": "CEIT Block",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28101953781577,
+            -6.815751803796039
+          ]
+        },
+        "id": "85ba87f9-d424-4948-9305-1b1c00905d90"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "36c2f52b-3fa1-4a26-85da-8efc76cabef8",
+          "name": "Mawasiliano Angani",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28014690414484,
+            -6.814449368503129
+          ]
+        },
+        "id": "36c2f52b-3fa1-4a26-85da-8efc76cabef8"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "637fea7e-494a-4d76-afc5-f8e4bc039270",
+          "name": "Soil Laboratory",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28049156800684,
+            -6.814594516196779
+          ]
+        },
+        "id": "637fea7e-494a-4d76-afc5-f8e4bc039270"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "38d1441d-3b18-4290-a2f4-296f02566db0",
+          "name": "Soil Workshop",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28050900236637,
+            -6.814442710350136
+          ]
+        },
+        "id": "38d1441d-3b18-4290-a2f4-296f02566db0"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "354960be-6895-4b6d-8254-54f6a4096891",
+          "name": "Maintanance Dpt",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28072089687774,
+            -6.814192363761242
+          ]
+        },
+        "id": "354960be-6895-4b6d-8254-54f6a4096891"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "70bff62a-8f1d-4d10-8d47-38beea5978e2",
+          "name": "Automotive Dpt",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28093547360102,
+            -6.813938022145472
+          ]
+        },
+        "id": "70bff62a-8f1d-4d10-8d47-38beea5978e2"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4c91448e-d8b0-4685-b758-5fc225c918f0",
+          "name": "Mechanical Dpt",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28013611722425,
+            -6.814211829669539
+          ]
+        },
+        "id": "4c91448e-d8b0-4685-b758-5fc225c918f0"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8655079d-28b0-47f4-af25-bc4b6b58d3c9",
+          "name": "Computer Dpt",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27977915453065,
+            -6.814092598285039
+          ]
+        },
+        "id": "8655079d-28b0-47f4-af25-bc4b6b58d3c9"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9c135d14-7ca7-4498-83e9-d8b52d8244d3",
+          "name": "Block 1",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.279706064335834,
+            -6.813974748890923
+          ]
+        },
+        "id": "9c135d14-7ca7-4498-83e9-d8b52d8244d3"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "fda48192-68ec-4bd7-a34b-c9623dae634b",
+          "name": "TT Generator",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27926698561334,
+            -6.814475182767007
+          ]
+        },
+        "id": "fda48192-68ec-4bd7-a34b-c9623dae634b"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8a028d8e-8f95-4c02-be89-08242e971260",
+          "name": "Welding Section",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.279433887132384,
+            -6.814297219415796
+          ]
+        },
+        "id": "8a028d8e-8f95-4c02-be89-08242e971260"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "0bf110ed-b077-4a11-858f-b8f04b265c31",
+          "name": "Machine Workshop",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27965294538168,
+            -6.814458233876125
+          ]
+        },
+        "id": "0bf110ed-b077-4a11-858f-b8f04b265c31"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ee3de452-99ae-40bd-93a4-02155ef8567e",
+          "name": "Automobile Workshop",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27987959006017,
+            -6.814628664333284
+          ]
+        },
+        "id": "ee3de452-99ae-40bd-93a4-02155ef8567e"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2b9a017e-efd6-4f34-a461-bcf25ac15b01",
+          "name": "Electrical Workshop",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28007399240068,
+            -6.814804744352295
+          ]
+        },
+        "id": "2b9a017e-efd6-4f34-a461-bcf25ac15b01"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "848b15e5-c0e7-4937-aab4-5e5097de4cc9",
+          "name": "Main Gate",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27957028220954,
+            -6.815262404770431
+          ]
+        },
+        "id": "848b15e5-c0e7-4937-aab4-5e5097de4cc9"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "83ac01b6-9288-40a4-9cdb-2a5b0118357b",
+          "name": "Mining Dpt",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.280368914216616,
+            -6.815139388182346
+          ]
+        },
+        "id": "83ac01b6-9288-40a4-9cdb-2a5b0118357b"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "92da5c5b-7086-4538-bc13-0a296ad394a4",
+          "name": "Electronics Dpt",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28052221725483,
+            -6.815228086271904
+          ]
+        },
+        "id": "92da5c5b-7086-4538-bc13-0a296ad394a4"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2ec2b7b9-790a-4287-ab43-f0ec44c0afa7",
+          "name": "Civil Workshop",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28054743858748,
+            -6.814761059068274
+          ]
+        },
+        "id": "2ec2b7b9-790a-4287-ab43-f0ec44c0afa7"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "e72c3bfd-c797-4860-9192-44baae574f24",
+          "name": "Workshop Venue",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28026905864185,
+            -6.814994289367575
+          ]
+        },
+        "id": "e72c3bfd-c797-4860-9192-44baae574f24"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2a0f8da7-643d-45f9-9f29-1982c7e41f9b",
+          "name": "R Building",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28015544588233,
+            -6.813874556550363
+          ]
+        },
+        "id": "2a0f8da7-643d-45f9-9f29-1982c7e41f9b"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2dc079ef-3a40-41ca-8a77-e11aeb3f7b7f",
+          "name": "Block 3",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28010655140269,
+            -6.81359497941835
+          ]
+        },
+        "id": "2dc079ef-3a40-41ca-8a77-e11aeb3f7b7f"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "19c25995-a278-4ed1-9815-d8fa1b7d235d",
+          "name": "Block 2",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27960257847243,
+            -6.813623483989761
+          ]
+        },
+        "id": "19c25995-a278-4ed1-9815-d8fa1b7d235d"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "a36fa1d4-da4f-4a90-96bd-bd647e85bfd4",
+          "name": "Block 4A",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.280189608063814,
+            -6.813299387354195
+          ]
+        },
+        "id": "a36fa1d4-da4f-4a90-96bd-bd647e85bfd4"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "70b62233-4715-4580-8545-e41e0a495b4b",
+          "name": "Furniture Store",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28029287311041,
+            -6.813164892339603
+          ]
+        },
+        "id": "70b62233-4715-4580-8545-e41e0a495b4b"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ea09c0e3-5474-42b0-b397-35c2ce255f38",
+          "name": "Block 4B",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28041089030986,
+            -6.813029065653928
+          ]
+        },
+        "id": "ea09c0e3-5474-42b0-b397-35c2ce255f38"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "a6f0b336-2d83-4b52-89f6-f6435b0b7413",
+          "name": "Block 5A",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.279796112365105,
+            -6.812824686673364
+          ]
+        },
+        "id": "a6f0b336-2d83-4b52-89f6-f6435b0b7413"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ce69a112-d675-42ba-ad8d-532ee180dcbc",
+          "name": "Block 5B",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.280008677433,
+            -6.812548372344936
+          ]
+        },
+        "id": "ce69a112-d675-42ba-ad8d-532ee180dcbc"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ac2399d5-f6c9-4387-b3f9-dbd9f74594e4",
+          "name": "Kitchen",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27963846090095,
+            -6.813144050159318
+          ]
+        },
+        "id": "ac2399d5-f6c9-4387-b3f9-dbd9f74594e4"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3188566e-b2d8-4a58-968e-4c7c553b7955",
+          "name": "Exit (Main Gate)",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27959350839777,
+            -6.815359863719104
+          ]
+        },
+        "id": "3188566e-b2d8-4a58-968e-4c7c553b7955"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "93a51c6b-4741-48c1-9980-a4aefcef84a7",
+          "name": "Exit (Rear Gate)",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27944069101364,
+            -6.814112272992678
+          ]
+        },
+        "id": "93a51c6b-4741-48c1-9980-a4aefcef84a7"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "92ecb501-1d97-4aee-be40-e3b005978a3e",
+          "name": "Exit",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28069656757348,
+            -6.815161966459002
+          ]
+        },
+        "id": "92ecb501-1d97-4aee-be40-e3b005978a3e"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2711e329-c1cd-4a03-a57a-7ff5703e101e",
+          "name": "Power Laboratory",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28058203206553,
+            -6.813826184938095
+          ]
+        },
+        "id": "2711e329-c1cd-4a03-a57a-7ff5703e101e"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "f111736c-3bf2-4644-99fc-9ac3655a0491",
+          "name": "Dispensary",
+          "category": "corridor",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28005147697221,
+            -6.812561087672927
+          ]
+        },
+        "id": "f111736c-3bf2-4644-99fc-9ac3655a0491"
+      }
+    ]
+  }
+}

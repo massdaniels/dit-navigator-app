@@ -1,0 +1,29 @@
+{
+  "buildings": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "exit",
+          "category": "unit",
+          "show": true,
+          "height": 4
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [39.2795601, -6.8152141],
+              [39.2795132, -6.8152887],
+              [39.2795722, -6.8153246],
+              [39.2796232, -6.8152487],
+              [39.2795601, -6.8152141]
+            ]
+          ]
+        },
+        "id": 3
+      }
+    ]
+  }
+}

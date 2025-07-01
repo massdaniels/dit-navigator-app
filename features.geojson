@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1749056956697,
+        "name": "Dar es salaam",
+        "description": "dar here"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.27957028220954,
+          -6.815262404770431
+        ]
+      }
+    }
+  ]
+}

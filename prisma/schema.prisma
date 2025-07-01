@@ -1,0 +1,100 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// prisma/schema.prisma
+model User {
+  id                  String   @id @default(uuid())
+  email               String   @unique
+  password            String
+  fullName            String?
+  image               String?
+  resetToken          String?  
+  resetTokenExpiresAt DateTime?
+  role                Role     @default(ADMIN)
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+}
+
+enum Role {
+  ADMIN
+}
+
+model Building {
+  id              String      @id @default(uuid())
+  name            String
+  buildingType    FeatureType @relation(fields: [buildingTypeId], references: [id])
+  buildingTypeId  String      
+  show            Boolean     @default(true)
+  height          Floor[]
+  categoryId      String
+  category        Category    @relation(fields: [categoryId], references: [id]) 
+  coordinates     Json        
+  createdAt       DateTime    @default(now())
+}
+
+model FeatureType {
+  id        String     @id @default(uuid())
+  name      String     @unique
+  building  Building[]   //
+}
+
+model Category {
+  id          String      @id @default(uuid())
+  name        String      @unique
+  description String?
+  building    Building[]
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model Floor {
+  id         String     @id @default(uuid())
+  level      Int        
+  building   Building   @relation(fields: [buildingId], references: [id])
+  buildingId String
+  createdAt  DateTime   @default(now())
+  updatedAt  DateTime   @updatedAt
+
+  poi    POI[]
+}
+
+model POI {
+  id          Int      @id
+  name        String
+  type        String
+  floor       Floor    @relation(fields: [floorId], references: [id])
+  floorId     String
+  coordinates Json     // GeoJSON Point: { "type": "Point", "coordinates": [lng, lat] }
+  createdAt   DateTime @default(now())
+}
+
+
+
+model Route {
+  id            String    @id @default(uuid())
+  name          String
+  coordinates   Json      
+  createdAt     DateTime  @default(now())
+}
+
+model Feedback {
+  id        String   @id @default(uuid())
+  name      String
+  email     String
+  rating    Int
+  message   String
+  createdAt DateTime @default(now())
+}
+

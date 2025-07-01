@@ -1,0 +1,713 @@
+ {
+ "pois": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27957028220954, -6.815262404770431],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 2,
+          "name": "Receiption G1",
+          "type": "Block",
+          "floor": 0,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27957028220797,-6.815049344219397],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 3,
+          "name": "Library 1",
+          "type": "Library",
+          "floor": 0,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27961587976279, -6.815145887293394],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 4,
+          "name": "Library 2",
+          "type": "Library",
+          "floor": 2,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.2794344953834, -6.815183505795896],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 6,
+          "name": "Library 3",
+          "type": "Library",
+          "floor": 2,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27979793470271, -6.815198819522116],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 7,
+          "name": "Stationary",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27929310061163, -6.8149890172889],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 8,
+          "name": "Block A",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_002"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27918063335688, -6.81470991903143],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 9,
+          "name": "Electrical Labs",
+          "type": "laboratory",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.2794287376926, -6.814600725382432],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10,
+          "name": "Teaching Tower",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.279894471238414, -6.815353744731897],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 11,
+          "name": "Block B",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28031435816659, -6.815521519308431],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 12,
+          "name": "Block C",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27984867801874, -6.81313562169651],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 13,
+          "name": "Dining Hall",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28023836839265, -6.814640323051469],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 14,
+          "name": "Water Dispenser",
+          "type": "Area",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.280751105528324, -6.814939146688528],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 15,
+          "name": "Canteen",
+          "type": "Area",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28076338684946, -6.816059409485192 ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 16,
+          "name": "DIT NSSF",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28101953781577, -6.815751803796039],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 17,
+          "name": "CEIT Block",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28014690414484, -6.814449368503129],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 18,
+          "name": "Mawasiliano Angani",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28049156800684, -6.814594516196779],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 19,
+          "name": "Soil Laboratory",
+          "type": "Laboratory",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28050900236637, -6.814442710350136],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 20,
+          "name": "Soil Workshop",
+          "type": "WorkShop",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28072089687774, -6.814192363761242],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 21,
+          "name": "Maintanance Dpt",
+          "type": "Department",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28093547360102, -6.813938022145472],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 22,
+          "name": "Automotive Dpt",
+          "type": "Department",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28013611722425, -6.814211829669539],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 23,
+          "name": "Mechanical Dpt",
+          "type": "Department",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27977915453065, -6.814092598285039],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 24,
+          "name": "Computer Dpt",
+          "type": "Department",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.279706064335834, -6.813974748890923],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 25,
+          "name": "Block 1",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27926698561334, -6.814475182767007],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 26,
+          "name": "TT Generator",
+          "type": "Area",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.279433887132384, -6.814297219415796],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 27,
+          "name": "Welding Section",
+          "type": "WorkShop",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27965294538168, -6.814458233876125],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 28,
+          "name": "Machine Workshop",
+          "type": "WorkShop",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27987959006017, -6.814628664333284],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 29,
+          "name": "Automobile Workshop",
+          "type": "WorkShop",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28007399240068, -6.814804744352295],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 30,
+          "name": "Electrical Workshop",
+          "type": "WorkShop",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.280368914216616, -6.815139388182346],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 31,
+          "name": "Mining Dpt",
+          "type": "Department",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28052221725483, -6.815228086271904],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 32,
+          "name": "Electronics Dpt",
+          "type": "Department",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28054743858748, -6.814761059068274],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 33,
+          "name": "Civil Workshop",
+          "type": "WorkShop",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27999485090366, -6.814119434712157],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 34,
+          "name": "ETE Office",
+          "type": "Administration",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28026905864185, -6.814994289367575],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 35,
+          "name": "Workshop Venue",
+          "type": "WorkShop",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28015544588233, -6.813874556550363],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 36,
+          "name": "New Building",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28010655140269, -6.81359497941835],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 37,
+          "name": "Block 3",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27960257847243, -6.813623483989761],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 38,
+          "name": "Block 2",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.280189608063814, -6.813299387354195],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 39,
+          "name": "Block 4A",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28029287311041, -6.813164892339603],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 40,
+          "name": "Furniture Store",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28041089030986, -6.813029065653928],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 41,
+          "name": "Block 4B",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.279796112365105, -6.812824686673364],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 42,
+          "name": "Block 5A",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.280008677433, -6.812548372344936],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 43,
+          "name": "Block 5B",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27963846090095, -6.813144050159318],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 44,
+          "name": "Kitchen",
+          "type": "Block",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27959350839777, -6.815359863719104],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 45,
+          "name": "Exit (Main Gate)",
+          "type": "Area",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.27944069101364, -6.814112272992678],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 46,
+          "name": "Exit (Rear Gate)",
+          "type": "Area",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28069656757348, -6.815161966459002],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 47,
+          "name": "Exit",
+          "type": "Area",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28058203206553, -6.813826184938095],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 48,
+          "name": "Power Laboratory",
+          "type": "Laboratory",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [39.28005147697221, -6.812561087672927],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 49,
+          "name": "Dispensary",
+          "type": "Hospital",
+          "floor": 1,
+          "metadata": {},
+          "building_id": "BUILDING_001"
+        }
+      }
+
+    ]
+  }
+}
