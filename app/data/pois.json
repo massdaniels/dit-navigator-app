@@ -278,7 +278,7 @@
         "type": "Feature",
         "properties": {
           "id": "38d1441d-3b18-4290-a2f4-296f02566db0",
-          "name": "Soil Workshop",
+          "name": "Civil Department",
           "category": "corridor",
           "floor": 0
         },
@@ -379,57 +379,6 @@
       {
         "type": "Feature",
         "properties": {
-          "id": "fda48192-68ec-4bd7-a34b-c9623dae634b",
-          "name": "TT Generator",
-          "category": "corridor",
-          "floor": 0
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.27926698561334,
-            -6.814475182767007
-          ]
-        },
-        "id": "fda48192-68ec-4bd7-a34b-c9623dae634b"
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": "8a028d8e-8f95-4c02-be89-08242e971260",
-          "name": "Welding Section",
-          "category": "corridor",
-          "floor": 0
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.279433887132384,
-            -6.814297219415796
-          ]
-        },
-        "id": "8a028d8e-8f95-4c02-be89-08242e971260"
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": "0bf110ed-b077-4a11-858f-b8f04b265c31",
-          "name": "Machine Workshop",
-          "category": "corridor",
-          "floor": 0
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.27965294538168,
-            -6.814458233876125
-          ]
-        },
-        "id": "0bf110ed-b077-4a11-858f-b8f04b265c31"
-      },
-      {
-        "type": "Feature",
-        "properties": {
           "id": "ee3de452-99ae-40bd-93a4-02155ef8567e",
           "name": "Automobile Workshop",
           "category": "corridor",
@@ -443,23 +392,6 @@
           ]
         },
         "id": "ee3de452-99ae-40bd-93a4-02155ef8567e"
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": "2b9a017e-efd6-4f34-a461-bcf25ac15b01",
-          "name": "Electrical Workshop",
-          "category": "corridor",
-          "floor": 0
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.28007399240068,
-            -6.814804744352295
-          ]
-        },
-        "id": "2b9a017e-efd6-4f34-a461-bcf25ac15b01"
       },
       {
         "type": "Feature",
@@ -498,23 +430,6 @@
       {
         "type": "Feature",
         "properties": {
-          "id": "92da5c5b-7086-4538-bc13-0a296ad394a4",
-          "name": "Electronics Dpt",
-          "category": "corridor",
-          "floor": 0
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.28052221725483,
-            -6.815228086271904
-          ]
-        },
-        "id": "92da5c5b-7086-4538-bc13-0a296ad394a4"
-      },
-      {
-        "type": "Feature",
-        "properties": {
           "id": "2ec2b7b9-790a-4287-ab43-f0ec44c0afa7",
           "name": "Civil Workshop",
           "category": "corridor",
@@ -533,7 +448,7 @@
         "type": "Feature",
         "properties": {
           "id": "e72c3bfd-c797-4860-9192-44baae574f24",
-          "name": "Workshop Venue",
+          "name": "Civil Department",
           "category": "corridor",
           "floor": 0
         },
@@ -550,8 +465,8 @@
         "type": "Feature",
         "properties": {
           "id": "2a0f8da7-643d-45f9-9f29-1982c7e41f9b",
-          "name": "R Building",
-          "category": "corridor",
+          "name": "Rafic Block",
+          "category": "unit",
           "floor": 0
         },
         "geometry": {
@@ -613,23 +528,6 @@
           ]
         },
         "id": "a36fa1d4-da4f-4a90-96bd-bd647e85bfd4"
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": "70b62233-4715-4580-8545-e41e0a495b4b",
-          "name": "Furniture Store",
-          "category": "corridor",
-          "floor": 0
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            39.28029287311041,
-            -6.813164892339603
-          ]
-        },
-        "id": "70b62233-4715-4580-8545-e41e0a495b4b"
       },
       {
         "type": "Feature",
@@ -783,6 +681,159 @@
           ]
         },
         "id": "f111736c-3bf2-4644-99fc-9ac3655a0491"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "aaeff415-a992-46db-9557-3131d8087109",
+          "name": "Welding and Fabrication",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27937364610314,
+            -6.814280578169142
+          ]
+        },
+        "id": "aaeff415-a992-46db-9557-3131d8087109"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "c037d53b-dae0-4c07-88c3-1b6a33210466",
+          "name": "Machine Shop",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27946484121061,
+            -6.81434715970842
+          ]
+        },
+        "id": "c037d53b-dae0-4c07-88c3-1b6a33210466"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "49841509-b90b-4806-b4bb-f53b25ea8591",
+          "name": "Automobile W5",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27957682343727,
+            -6.814467672272405
+          ]
+        },
+        "id": "49841509-b90b-4806-b4bb-f53b25ea8591"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "739fedc5-8531-4a18-92cf-905f678bf375",
+          "name": "Automobile W6",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.27967740627663,
+            -6.814524266559117
+          ]
+        },
+        "id": "739fedc5-8531-4a18-92cf-905f678bf375"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ef45da1e-5ffc-48f3-bb6b-8415cc8ec6a5",
+          "name": "Workshop 7F",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28002408179021,
+            -6.814785266012724
+          ]
+        },
+        "id": "ef45da1e-5ffc-48f3-bb6b-8415cc8ec6a5"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "dad9162d-29cf-4c10-bded-731aeb13b95e",
+          "name": "Workshop 8F",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28010119530039,
+            -6.81486183470124
+          ]
+        },
+        "id": "dad9162d-29cf-4c10-bded-731aeb13b95e"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "f7385fe5-ac16-4d63-813e-3333c0a9446d",
+          "name": "Workshop 11",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28049078615809,
+            -6.815188083766105
+          ]
+        },
+        "id": "f7385fe5-ac16-4d63-813e-3333c0a9446d"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "351fe555-9124-447b-952b-6be2e7e726f6",
+          "name": "Workshop 12",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.280565888010315,
+            -6.815275305416467
+          ]
+        },
+        "id": "351fe555-9124-447b-952b-6be2e7e726f6"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4c44014c-08e4-4e54-9091-5e38ce22ade8",
+          "name": "Hostels",
+          "category": "unit",
+          "floor": 0
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.28025604460126,
+            -6.812291303595658
+          ]
+        },
+        "id": "4c44014c-08e4-4e54-9091-5e38ce22ade8"
       }
     ]
   }
